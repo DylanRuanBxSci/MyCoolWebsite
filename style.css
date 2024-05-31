@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img {
+  height: 500px;
+  width: 500px;
+}
+body {
+  text-align: center;
+  font-family: Calibri;
+  Color: Gold;
+  background-color: MediumSeaGreen;
+}
+h1 {
+  font-size: 90px;
+}
+
+p {
+  font-size: 30px;
+}
